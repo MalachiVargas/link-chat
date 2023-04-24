@@ -1,0 +1,1 @@
+window.APP_ID='YOUR_AGORA_APP_ID'
